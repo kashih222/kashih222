@@ -1,9 +1,5 @@
 <!-- 💎 Premium GitHub Profile README for Muhammad Kashaf -->
 
-<!-- HEADER CUSTOM ANIMATED BANNER -->
-<p align="center">
-  <img src="https://mkashafportfolio.netlify.app/assets/mKashaf-DHFY3EUR.png" width="20%" style="border-radius:100%;" alt="Muhammad Kashaf Banner" />
-</p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">

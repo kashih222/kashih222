@@ -1,6 +1,5 @@
 <!-- 💎 Premium GitHub Profile README for Muhammad Kashaf -->
 
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=900&lines=Hi%F0%9F%91%8B+I'm+Muhammad+Kashaf;BSIT+Student+%7C+MERN+Stack+Developer;Frontend+%26+Backend+Specialist;Building+AI+%2B+Web+Solutions;Always+Learning+%26+Creating+New+Things" alt="Typing Animation" />
@@ -8,10 +7,12 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me 
+<img align="right" src="https://i.imgur.com/jx17oHT.gif" width="250" alt="Coding Boy GIF" />
+
 💡 **Muhammad Kashaf** — BSIT Student at **Punjab University** & **Full Stack Developer** specialized in **MERN Stack** and **AI Integration**.  
 🚀 Passionate about building **interactive, modern web apps** with cutting-edge technologies.  
-💬 Always open to **collaboration & innovative ideas**.
+💬 Always open to **collaboration & innovative ideas**.  
 
 ---
 
@@ -57,8 +58,12 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashafmhr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashafmhr&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kashafmhr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kashafmhr&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashafmhr&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 ---

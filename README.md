@@ -85,12 +85,13 @@
 <img src="https://img.shields.io/badge/Flask_AI-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
 
-```
+<div align = center>
 🎯 Complete nursery management solution with AI-powered plant recognition
 🔍 Disease detection using advanced machine learning algorithms
 📊 Admin dashboard with real-time analytics and inventory management
 🌐 RESTful API integration between React frontend and Flask AI backend
-```
+</div>
+
 
 ---
 
@@ -101,12 +102,12 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
-```
+<div align = center>
 🎨 Modern, responsive NFT marketplace interface
 ✨ Smooth animations and micro-interactions
 🔗 Web3 integration ready architecture
 📱 Mobile-first responsive design approach
-```
+</div>
 
 ---
 
@@ -117,12 +118,12 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-```
+<div aligh = "center">
 🛒 End-to-end food ordering system
 📍 Location-based restaurant discovery
 💳 Secure payment integration simulation
 👤 Multi-role user management (Customer/Restaurant/Delivery)
-```
+</div>
 
 ---
 
@@ -133,12 +134,14 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Responsive-FF4088?style=for-the-badge" />
 
-```
+
+<div align = "center">
 🛍️ Pixel-perfect Amazon UI recreation
 🔍 Advanced search and filtering system
 🛒 Dynamic shopping cart with local storage
 📊 Product reviews and rating system
-```
+</div>
+
 
 </div>
 

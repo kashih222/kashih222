@@ -146,8 +146,8 @@
 
 
 ### 📬 Reach Out to Me
-
-<p align="center>
+<div align="center">
+<p >
   <a href="https://www.linkedin.com/in/kashafmhr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
   </a>
@@ -161,7 +161,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+</div>
 
 
 

@@ -119,10 +119,10 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <div aligh = "center">
-🛒 End-to-end food ordering system
-📍 Location-based restaurant discovery
-💳 Secure payment integration simulation
-👤 Multi-role user management (Customer/Restaurant/Delivery)
+🛒 End-to-end food ordering system<br>
+📍 Location-based restaurant discovery<br>
+💳 Secure payment integration simulation<br>
+👤 Multi-role user management (Customer/Restaurant/Delivery)<br>
 </div>
 
 ---
@@ -136,10 +136,10 @@
 
 
 <div align = "center">
-🛍️ Pixel-perfect Amazon UI recreation
-🔍 Advanced search and filtering system
-🛒 Dynamic shopping cart with local storage
-📊 Product reviews and rating system
+🛍️ Pixel-perfect Amazon UI recreation<br>
+🔍 Advanced search and filtering system<br>
+🛒 Dynamic shopping cart with local storage<br>
+📊 Product reviews and rating system<br>
 </div>
 
 

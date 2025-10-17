@@ -144,57 +144,6 @@
 
 ---
 
-## 📊 GitHub Analytics & Performance
-
-<div align="center">
-  
-  <!-- GitHub Stats Cards with Custom Styling -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kashafmhr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kashafmhr&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  
-  <br/><br/>
-  
-  <!-- Language Stats -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashafmhr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
-  
-  <br/><br/>
-  
-  <!-- Activity Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kashafmhr&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Over%20Time" />
-  
-  <br/><br/>
-  
-  <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kashafmhr&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" />
-
-</div>
-
----
-
-## 💼 Professional Experience & Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📊 Metric | 🎯 Impact |
-|:---|:---:|:---|
-| **Projects Completed** | 15+ | Full-stack web applications |
-| **Technologies Mastered** | 20+ | Frontend, Backend, AI/ML |
-| **Code Contributions** | 500+ | Open source & personal projects |
-| **Problem-Solving** | Daily | LeetCode & real-world challenges |
-
-</div>
-
-### 🎯 Current Focus Areas
-- 🤖 **AI Integration**: Building intelligent web applications
-- 🏗️ **System Architecture**: Scalable and maintainable solutions  
-- 📱 **Mobile Development**: React Native exploration
-- ☁️ **Cloud Technologies**: AWS & Azure deployment strategies
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
 
 ### 📬 Reach Out to Me
 
@@ -213,50 +162,8 @@
   </a>
 </p>
 
-### 💬 Open for Opportunities
-```
-🚀 Full-Stack Development Projects
-🤝 Open Source Collaborations  
-💼 Internship & Job Opportunities
-🧠 AI/ML Project Partnerships
-📚 Knowledge Sharing & Mentoring
-```
 
-</div>
 
----
-
-## ⚡ Fun Facts & Personal Touch
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-### 🎯 When I'm Not Coding...
-- 🎮 Gaming & exploring virtual worlds
-- 📚 Reading tech blogs & staying updated
-- 🌱 Learning new programming languages
-- ☕ Coffee enthusiast & late-night coder
-- 🎵 Music lover & productivity optimizer
-
-</div>
-
----
-
-<div align="center">
-  
-  <!-- Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
-  
-  ### 💙 "Code is Poetry, Logic is Art" 💙
-  
-  <img src="https://komarev.com/ghpvc/?username=kashafmhr&style=for-the-badge&color=brightgreen" />
-  
-  *Last Updated: August 2025*
-  
-</div>
-
----
 
 <!-- Easter Eggs for Fellow Developers -->
 <!-- 

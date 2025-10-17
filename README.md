@@ -18,24 +18,24 @@
 
 ## 🎯 About Me
 
-> **Passionate Full Stack Developer** crafting digital experiences that matter
+> **Passionate Full Stack Developer** crafting digital experiences that matter <br>
 
-🎓 **Education:** BSIT Student at **Punjab University**  
-💼 **Focus:** MERN Stack Development & AI Integration  
-🌍 **Location:** Islamabad, Pakistan  
-⚡ **Philosophy:** Code with purpose, build with passion  
+🎓 **Education:** BSIT Student at **Punjab University**  <br>
+💼 **Focus:** MERN Stack Development & AI Integration  <br>
+🌍 **Location:** Islamabad, Pakistan  <br>
+⚡ **Philosophy:** Code with purpose, build with passion  <br>
 
-### 🎨 What Drives Me
-- 🔥 **Innovation**: Always exploring cutting-edge technologies
-- 🤝 **Collaboration**: Building solutions that bring people together  
-- 📚 **Growth**: Continuous learning and skill development
-- 🎯 **Impact**: Creating applications that solve real-world problems
+### 🎨 What Drives Me<br>
+- 🔥 **Innovation**: Always exploring cutting-edge technologies<br>
+- 🤝 **Collaboration**: Building solutions that bring people together  <br>
+- 📚 **Growth**: Continuous learning and skill development<br>
+- 🎯 **Impact**: Creating applications that solve real-world problems<br>
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology Arsenal<br>
 
 <div align="center">
 
@@ -86,10 +86,10 @@
 <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
 
 <div align = center>
-🎯 Complete nursery management solution with AI-powered plant recognition
-🔍 Disease detection using advanced machine learning algorithms
-📊 Admin dashboard with real-time analytics and inventory management
-🌐 RESTful API integration between React frontend and Flask AI backend
+🎯 Complete nursery management solution with AI-powered plant recognition<br>
+🔍 Disease detection using advanced machine learning algorithms<br>
+📊 Admin dashboard with real-time analytics and inventory management<br>
+🌐 RESTful API integration between React frontend and Flask AI backend<br>
 </div>
 
 
@@ -103,10 +103,10 @@
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
 <div align = center>
-🎨 Modern, responsive NFT marketplace interface
-✨ Smooth animations and micro-interactions
-🔗 Web3 integration ready architecture
-📱 Mobile-first responsive design approach
+🎨 Modern, responsive NFT marketplace interface<br>
+✨ Smooth animations and micro-interactions<br>
+🔗 Web3 integration ready architecture<br>
+📱 Mobile-first responsive design approach<br>
 </div>
 
 ---

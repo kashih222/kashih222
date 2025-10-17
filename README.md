@@ -92,10 +92,6 @@
 📊 Admin dashboard with real-time analytics and inventory management<br>
 🌐 RESTful API integration between React frontend and Flask AI backend<br>
 </div>
-
-
----
-
 </div>
 
 ---

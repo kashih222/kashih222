@@ -20,7 +20,7 @@ Passionate **Full Stack Developer** crafting innovative digital solutions. I spe
 
 **🎓 Education:** BSIT Student at **Punjab University**  
 **💼 Focus:** MERN Stack Development & AI Integration  
-**🌍 Location:** Islamabad, Pakistan  
+**🌍 Location:** Lahore, Pakistan  
 **⚡ Philosophy:** *Code with purpose, build with passion*
 
 ### 🚀 What Drives Me
@@ -42,7 +42,6 @@ Passionate **Full Stack Developer** crafting innovative digital solutions. I spe
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap" />
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -55,21 +54,13 @@ Passionate **Full Stack Developer** crafting innovative digital solutions. I spe
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🤖 **AI & Machine Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+
 
 ### 🛠️ **Tools & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma" />
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -88,8 +79,6 @@ Passionate **Full Stack Developer** crafting innovative digital solutions. I spe
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-FF6F00?style=flat-square&logo=opencv&logoColor=white" />
 </div>
 
 **Key Features:**

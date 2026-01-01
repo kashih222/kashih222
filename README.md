@@ -1,10 +1,10 @@
-# 💫 Muhammad Kashaf - Full Stack Developer & AI Enthusiast
+# 💫 Muhammad Kashaf - MERN Stack Developer
 
 <div align="center" padding-bottom = "20px">
   
   <!-- Enhanced Typing Animation -->
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+I'm+Muhammad+Kashaf;🎓+BSIT+Student+%7C+Punjab+University;💻+MERN+Stack+Developer+%2B+AI+Specialist;🚀+Building+Next-Gen+Web+%26+AI+Solutions;🌟+Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+I'm+Muhammad+Kashaf;🎓+BSIT+Student+%7C+Punjab+University;💻+MERN+Stack+Developer" alt="Typing SVG" />
   
   <br><br>
   

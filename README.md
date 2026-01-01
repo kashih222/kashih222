@@ -6,14 +6,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+I'm+Muhammad+Kashaf;🎓+BSIT+Student+%7C+Punjab+University;💻+MERN+Stack+Developer" alt="Typing SVG" />
   
-  <br><br> <br><br>
-  
-  <!-- Professional Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32" />
-  
-</div>
 
----
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation"/>
 

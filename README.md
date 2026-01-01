@@ -1,120 +1,158 @@
 # 💫 Muhammad Kashaf - MERN Stack Developer
 
-<div align="center" padding-bottom = "20px">
+<div align="center">
   
-  <!-- Enhanced Typing Animation -->
-  
+  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+I'm+Muhammad+Kashaf;🎓+BSIT+Student+%7C+Punjab+University;💻+MERN+Stack+Developer" alt="Typing SVG" />
   
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Digital+Innovator&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32" />
+  
+</div>
 
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding Animation"/>
+---
 
 ## 🎯 About Me
 
-> **Passionate Full Stack Developer** crafting digital experiences that matter <br>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding Animation"/>
 
-🎓 **Education:** BSIT Student at **Punjab University**  <br>
-💼 **Focus:** MERN Stack Development & AI Integration  <br>
-🌍 **Location:** Islamabad, Pakistan  <br>
-⚡ **Philosophy:** Code with purpose, build with passion  <br>
+Passionate **Full Stack Developer** crafting innovative digital solutions. I specialize in building scalable applications with modern technologies, focusing on user experience and performance.
 
-### 🎨 What Drives Me<br>
-- 🔥 **Innovation**: Always exploring cutting-edge technologies<br>
-- 🤝 **Collaboration**: Building solutions that bring people together  <br>
-- 📚 **Growth**: Continuous learning and skill development<br>
-- 🎯 **Impact**: Creating applications that solve real-world problems<br>
+**🎓 Education:** BSIT Student at **Punjab University**  
+**💼 Focus:** MERN Stack Development & AI Integration  
+**🌍 Location:** Islamabad, Pakistan  
+**⚡ Philosophy:** *Code with purpose, build with passion*
+
+### 🚀 What Drives Me
+- **Innovation** - Exploring cutting-edge technologies
+- **Collaboration** - Building solutions that connect people
+- **Growth** - Continuous learning and skill enhancement
+- **Impact** - Creating applications that solve real problems
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technology Arsenal<br>
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### 🎨 Frontend Mastery
+### 🎨 **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap" />
   <br/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### ⚙️ Backend Power
+### ⚙️ **Backend Development**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,mongodb,mysql,postgresql" />
   <br/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🤖 AI & Machine Learning
+### 🤖 **AI & Machine Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
   <br/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ **Tools & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,vercel,netlify,figma" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects Portfolio
+## 🌟 Featured Project
 
 <div align="center">
 
 ### 🌱 **Plant Nursery Management & AI Recognition System**
-*The Future of Agriculture Technology*
+#### *Modern Agriculture Technology Platform*
 
-<img src="https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Flask_AI-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
-
-<div align = center>
-🎯 Complete nursery management solution with AI-powered plant recognition<br>
-🔍 Disease detection using advanced machine learning algorithms<br>
-📊 Admin dashboard with real-time analytics and inventory management<br>
-🌐 RESTful API integration between React frontend and Flask AI backend<br>
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-FF6F00?style=flat-square&logo=opencv&logoColor=white" />
 </div>
+
+**Key Features:**
+- ✅ AI-powered plant disease detection
+- ✅ Complete nursery inventory management
+- ✅ Real-time analytics dashboard
+- ✅ RESTful API integration
+- ✅ Responsive admin interface
+
+**Technologies:** MERN Stack, Flask, OpenCV, TensorFlow, MongoDB
+
 </div>
 
 ---
 
+## 📊 GitHub Analytics
 
-### 📬 Reach Out to Me
 <div align="center">
-<p >
-  <a href="https://www.linkedin.com/in/kashafmhr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
-  </a>
-  <a href="https://www.instagram.com/kshihmehr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://mkashafportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:kashafmhr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashafmhr&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashafmhr&layout=compact&theme=github_dark" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashafmhr&theme=github-dark-blue" alt="GitHub Streak" />
+  
 </div>
 
+---
 
+## 📫 Connect With Me
 
-<!-- Easter Eggs for Fellow Developers -->
-<!-- 
-  🎉 Thanks for checking out my profile! 
-  If you're reading this, you're probably a fellow developer.
-  Let's connect and build something amazing together! 
+<div align="center">
   
-  Fun fact: This README took longer to perfect than some of my projects! 😄
+  <p>
+    <a href="https://www.linkedin.com/in/kashafmhr" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://mkashafportfolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="mailto:kashafmhr@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/kashafmhr" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  
+  <p>💌 <strong>Let's build something amazing together!</strong></p>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=kashafmhr&color=blueviolet&style=flat-square" alt="Profile Views" />
+  
+  <p><i>✨ Thanks for visiting my profile! ✨</i></p>
+  
+</div>
+
+<!--
+  🎯 Always learning, always building.
+  Let's connect and create something extraordinary!
 -->

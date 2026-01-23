@@ -49,7 +49,7 @@ Passionate **Full Stack Developer** crafting innovative digital solutions. I spe
 
 ### ⚙️ **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb," />
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />

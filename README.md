@@ -6,7 +6,7 @@
   <!-- Typing Animation with Padding -->
 <div align="center" style="padding-top: 40px; padding-bottom: 80px;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+I'm+Muhammad+Kashaf;🎓+BSIT+Student+%7C+Punjab+University;💻+MERN+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hi%2C+I'm+Muhammad+Kashaf;🎓+BSIT+Student+%7C+Punjab+University;)
 
 </div>
   <!-- Banner -->

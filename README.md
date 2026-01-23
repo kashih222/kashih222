@@ -82,28 +82,14 @@ Passionate **Full Stack Developer** crafting innovative digital solutions. I spe
 </div>
 
 **Key Features:**
-- ✅ AI-powered plant disease detection
-- ✅ Complete nursery inventory management
-- ✅ Real-time analytics dashboard
-- ✅ RESTful API integration
-- ✅ Responsive admin interface
+-  AI-powered plant disease detection
+-  Complete nursery inventory management
+-  Real-time analytics dashboard
+-  RESTful API integration
+-  Responsive admin interface
 
 **Technologies:** MERN Stack, Flask, OpenCV, TensorFlow, MongoDB
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashafmhr&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashafmhr&layout=compact&theme=github_dark" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashafmhr&theme=github-dark-blue" alt="GitHub Streak" />
-  
 </div>
 
 ---
